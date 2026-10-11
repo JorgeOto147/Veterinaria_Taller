@@ -1,0 +1,14 @@
+body{
+    background: #f4f8f4;
+}
+
+.icono_producto{
+    font-size: 60px;
+    padding-top: 15px;
+}
+
+.precio{
+    color: rgb(27, 163, 163);
+    font-size: 20px;
+    font-weight: bold;
+}
